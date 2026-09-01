@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3A66,100:1F6FEB&height=190&section=header&text=Gabriel%20Belluco%20Perez&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Software%20%7C%20Produtos%20Digitais%20%7C%20Dados&descAlignY=58&descSize=17" alt="Gabriel Belluco Perez" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=1F6FEB&center=true&vCenter=true&width=720&lines=Desenvolvimento+Full+Stack+web+e+mobile;Transformando+necessidades+em+produtos+digitais;Tecnologia%2C+lideran%C3%A7a+e+aprendizado+cont%C3%ADnuo" alt="Apresentação animada" />
-
 </div>
 
 ## Sobre mim
@@ -43,8 +41,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielBelluco&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=6E7781&icon_color=1F6FEB&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBelluco&layout=compact&theme=transparent&hide_border=true&title_color=1F6FEB&text_color=6E7781&locale=pt-br" alt="Linguagens mais utilizadas" />
+![Seguidores](https://img.shields.io/github/followers/GabrielBelluco?style=for-the-badge&logo=github&label=Seguidores&color=1F6FEB)
+![Visualizações](https://komarev.com/ghpvc/?username=GabrielBelluco&style=for-the-badge&color=1F6FEB&label=Visualizações+do+perfil)
 
 </div>
 
