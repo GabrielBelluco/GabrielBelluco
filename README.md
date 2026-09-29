@@ -6,10 +6,8 @@
 
 ## Sobre mim
 
-- Graduando em Ciência da Computação pela **UNIFEI**, com conclusão prevista para 2026.
-- Desenvolvedor de software na **Descubra Soluções**, após dois anos de estágio na empresa.
-- Experiência no desenvolvimento full stack de aplicativos web e mobile, APIs, bancos de dados e entrega contínua.
-- Interesse em engenharia de software, produtos digitais, metodologias ágeis, liderança e uso de dados na tomada de decisão.
+- Graduando em Ciência da Computação pela **UNIFEI**.
+- Desenvolvedor de software na **Descubra Soluções**.
 - TCC sobre **Change Captioning aplicado a desastres naturais**, utilizando inteligência artificial, visão computacional e sensoriamento remoto.
 
 ## Tecnologias
